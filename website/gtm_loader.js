@@ -20,3 +20,5 @@ s.parentNode.insertBefore(t,s)}(window, document,'script',
 'https://connect.facebook.net/en_US/fbevents.js');
 fbq('init', '6118660991537028');
 fbq('track', 'PageView');
+fbq('trackCustom', 'ViewedCalculator');
+fbq('trackCustom', 'HealthyPet');
